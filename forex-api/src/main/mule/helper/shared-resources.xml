@@ -22,6 +22,6 @@ http://www.mulesoft.org/schema/mule/mongo http://www.mulesoft.org/schema/mule/mo
 	</apikit:config>
 	<configuration doc:name="error-handler" doc:id="fc47dc58-9479-4b5e-b7d4-57b83b9b42d6" defaultErrorHandler-ref="error-handler" >
 	</configuration>
-	
+	<!-- -->
 	
 </mule>
